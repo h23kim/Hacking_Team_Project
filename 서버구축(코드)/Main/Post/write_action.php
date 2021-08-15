@@ -1,7 +1,7 @@
 <?php
 	//글을 작성
 
-	include "save_post.php";
+	include "./save_post.php";
 
 	$con = mysqli_connect("localhost","root","2021","login") or die ("Can't access DB");
 	$URL='../main.php';
