@@ -94,10 +94,10 @@
 <br><br><br>
 
 ## 실습 화면
-![image](https://user-images.githubusercontent.com/86015194/130647625-09426404-50a2-4589-9b42-d85294a6af13.png)
-![image](https://user-images.githubusercontent.com/86015194/130647727-abbfefdd-ffff-478b-8232-98692de52b63.png)
-![image](https://user-images.githubusercontent.com/86015194/130647792-a24f9b79-efd4-4638-b43f-a6afe80bde56.png)
-![image](https://user-images.githubusercontent.com/86015194/130647841-5f57bf61-fec4-4810-871b-be5009feee2e.png)
+
+<img src="https://user-images.githubusercontent.com/86015194/130647792-a24f9b79-efd4-4638-b43f-a6afe80bde56.png" width="400" height="200"><img src="https://user-images.githubusercontent.com/86015194/130647841-5f57bf61-fec4-4810-871b-be5009feee2e.png" width="400" height="200">
+
+!
 
 
 <br><br>
