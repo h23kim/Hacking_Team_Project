@@ -110,7 +110,7 @@
 
 
 
-마주친 Error
+Error
 ==============
 ## 1st Error
 
