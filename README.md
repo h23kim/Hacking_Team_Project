@@ -72,7 +72,7 @@
 
 결과 화면
 ================
-## 5조 웹 완성 화면(Team_5)
+## :bulb: 5조 웹 완성 화면(Team_5)
 ![image](https://user-images.githubusercontent.com/86015194/130646281-eb382ebe-fa29-4d75-9095-a403ee8e083f.png)<br>
 ![image](https://user-images.githubusercontent.com/86015194/130646450-f7fdf927-bde7-4905-b71c-5cad9bae74bf.png)<br>
 ![image](https://user-images.githubusercontent.com/86015194/130646537-f47d3913-80ee-42ff-816a-9edc45800a1c.png)<br>
@@ -82,7 +82,7 @@
 
 <br><br><br>
 
-## DB 구축
+## :bulb: DB 구축
 <img src="https://user-images.githubusercontent.com/86015194/130646957-83355778-3bcf-4cc7-998a-94c64ade0a51.png" width="400" height="200"><img src="https://user-images.githubusercontent.com/86015194/130647180-3f8534e6-827d-4c33-85d5-1d4f313ac04b.png" width="400" height="200">
 <img src="https://user-images.githubusercontent.com/86015194/130647286-76228127-e2c4-4d69-a83d-67834d33dae0.png" width="800" height="400">
 
@@ -92,7 +92,7 @@
 
 <br><br><br>
 
-## 실습 화면
+## :bulb: 실습 화면
 
 <img src="https://user-images.githubusercontent.com/86015194/130647792-a24f9b79-efd4-4638-b43f-a6afe80bde56.png" width="400" height="200"><img src="https://user-images.githubusercontent.com/86015194/130647841-5f57bf61-fec4-4810-871b-be5009feee2e.png" width="400" height="200">
 
@@ -101,7 +101,7 @@
 
 <br><br>
 
-5조 팀원
+:bulb: 5조 팀원
 ============
 * 17학번 박준영<br>
 * 20학번 김채은<br>
@@ -161,7 +161,7 @@ CSS는 오픈소스를 가져다 썼다.<br>
   -구름 IDE가 신기했고 바로 다른 사람이 코드 작성하         는게 보이는게 재밌었다.
   
   -일부러 보안에 취약한 언어 PHP를 사용했으나 (보통 워게임의 언어가 PHP) 실제로 현업에 사용되는 
-리액트 Vue.js와 같은 라이브러리로 서버를 구축했다면 좀 더 실질적으로 보안을 맛볼 수 있지 않았을까 하는 아쉬움이 있다. 이는 다음 프로젝트 기획시 참고해야겠다.
+리액트 Vue.js와 같은 라이브러리리나 프레임워크 기반 서버를 구축했다면 좀 더 실질적으로 보안을 맛볼 수 있지 않았을까 하는 아쉬움이 있다. 이는 다음 프로젝트 기획시 참고해야겠다.
 
   ps. 프로젝트 진행에 많은 도움을 주신 연구실 선배님들 
 보실진 모르겠지만 감사했습니다!
