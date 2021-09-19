@@ -32,6 +32,7 @@
 		$pw = $_POST['pw'];
 	}
 
+	// md5로 패스워드는 암호화해서 저장
 	$pw=md5($pw);
 	$select = "select * from member_info where id='$id'";
 	$result=mysqli_query($con,$select);
