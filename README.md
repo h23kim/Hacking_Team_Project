@@ -73,7 +73,7 @@
 
 결과 화면
 ================
-## :bulb: 5조 웹 완성 화면(Team_5)
+## 5조 웹 완성 화면(Team_5)
 ![image](https://user-images.githubusercontent.com/86015194/130646281-eb382ebe-fa29-4d75-9095-a403ee8e083f.png)<br>
 ![image](https://user-images.githubusercontent.com/86015194/130646450-f7fdf927-bde7-4905-b71c-5cad9bae74bf.png)<br>
 ![image](https://user-images.githubusercontent.com/86015194/130646537-f47d3913-80ee-42ff-816a-9edc45800a1c.png)<br>
@@ -83,7 +83,7 @@
 
 <br><br><br>
 
-## :bulb: DB 구축
+## DB 구축
 <img src="https://user-images.githubusercontent.com/86015194/130646957-83355778-3bcf-4cc7-998a-94c64ade0a51.png" width="400" height="200"><img src="https://user-images.githubusercontent.com/86015194/130647180-3f8534e6-827d-4c33-85d5-1d4f313ac04b.png" width="400" height="200">
 <img src="https://user-images.githubusercontent.com/86015194/130647286-76228127-e2c4-4d69-a83d-67834d33dae0.png" width="800" height="400">
 
@@ -102,7 +102,7 @@
 
 <br><br>
 
-:bulb: 5조 팀원
+ 5조 팀원
 ============
 * 17학번 박준영<br>
 * 20학번 김채은<br>
